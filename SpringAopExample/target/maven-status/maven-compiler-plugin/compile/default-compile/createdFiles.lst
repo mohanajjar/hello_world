@@ -1,0 +1,6 @@
+com\mkyong\aop\HijackAfterMethod.class
+com\mkyong\aop\HijackThrowException.class
+com\mkyong\common\App.class
+com\mkyong\aop\HijackAroundMethod.class
+com\mkyong\aop\HijackBeforeMethod.class
+com\mkyong\customer\services\CustomerService.class
