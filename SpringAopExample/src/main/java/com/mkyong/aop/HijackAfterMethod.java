@@ -8,6 +8,7 @@ public class HijackAfterMethod implements AfterReturningAdvice {
 	public void afterReturning(Object returnValue, Method method,
 			Object[] args, Object target) throws Throwable {
 		System.out.println("second change");
+		System.out.println();
 		System.out.println("HijackAfterMethod : After method hijacked!");
 	}
 }
